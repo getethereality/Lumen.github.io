@@ -163,8 +163,7 @@ if (downloadBtn) {
 
         setTimeout(() => {
             const link = document.createElement('a');
-            link.href = '/downloads/Lumen.rar';
-            link.setAttribute('download', 'Lumen.rar');
+            link.href = 'https://gofile.io/d/2MTCsI';
             link.style.display = 'none';
             document.body.appendChild(link);
             link.click();
