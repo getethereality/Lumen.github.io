@@ -163,7 +163,7 @@ if (downloadBtn) {
 
         setTimeout(() => {
             const link = document.createElement('a');
-            link.href = 'https://gofile.io/d/2MTCsI';
+            link.href = 'https://gofile.io/d/j73ws7';
             link.style.display = 'none';
             document.body.appendChild(link);
             link.click();
